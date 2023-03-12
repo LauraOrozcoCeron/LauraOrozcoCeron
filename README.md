@@ -4,10 +4,10 @@ I am a statistician with a master's degree in analytics and more than 4 years of
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on data engineer proccess.
-- 🌱 I’m currently learning about MLOps
-- 👯 I’m volunteer in Data Science Fem
-- 💬 Ask me about predictive models
+- 🔭 I’m currently working on the data engineering process.
+- 🌱 I’m currently learning about MLOps.
+- 👯 I’m a volunteer in Data Science Fem.
+- 💬 Ask me about predictive models.
 - 📫 How to reach me: laura.orozco.ceron@gmail.com
 - ⚡ Fun fact: I am madly in love with my cat 😻
 
