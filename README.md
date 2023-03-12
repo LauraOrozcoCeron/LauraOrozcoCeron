@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Laura Orozco 👋
 
-<!--
-**LauraOrozcoCeron/LauraOrozcoCeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a statistician with a master's degree in analytics and more than 4 years of experience in the data science sector, my role has focused on building predictive models based on machine learning solutions through different tools such as R and Python. I am characterized by being a self-taught, dedicated and easy to communicate and work in a team.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on data engineer proccess.
+- 🌱 I’m currently learning about MLOps
+- 👯 I’m volunteer in Data Science Fem
+- 💬 Ask me about predictive models
+- 📫 How to reach me: laura.orozco.ceron@gmail.com
+- ⚡ Fun fact: I am madly in love with my cat 😻
+
+
+<h3 align="center">Please feel free to connect with me</h3>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/laura-orozco-32304bbb/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+</p>
+
