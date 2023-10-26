@@ -4,7 +4,7 @@ I am a statistician with a master's degree in analytics and more than 4 years of
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on data science role
+- 🔭 I’m currently working as a Data Scientist.
 - 🌱 I’m currently learning about MLOps.
 - 👯 I’m a volunteer in Data Science Fem.
 - 💬 Ask me about predictive models.
