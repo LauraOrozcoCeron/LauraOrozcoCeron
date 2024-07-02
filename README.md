@@ -1,6 +1,6 @@
 ### Hi there, I'm Laura Orozco 👋
 
-I am a statistician with a master's degree in analytics and more than 4 years of experience in the data science sector, my role has focused on building predictive models based on machine learning solutions through different tools such as R and Python. I am characterized by being a self-taught, dedicated and easy to communicate and work in a team.
+I am a statistician with a master's degree in analytics and more than 5 years of experience in the data science sector, my role has focused on building predictive models based on machine learning solutions through different tools such as R and Python. I am characterized by being a self-taught, dedicated and easy to communicate and work in a team.
 
 Here are some ideas to get you started:
 
